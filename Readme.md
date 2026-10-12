@@ -28,11 +28,6 @@ gcc -O3 linative.c -o linative
 
 ---
 
-## 📈 Roadmap
-* [x] Ultra-compact single-file loading engine
-* [x] Dynamic page protection parity (`mprotect`)
-* [x] Drag & Drop desktop launcher pipeline
-* [ ] PE Import Address Table (IAT) parsing infrastructure
-* [ ] Direct mapping of core subsystems to native POSIX calls
+
 
 *Wine is not the only way. Let's run Windows binaries natively.*
